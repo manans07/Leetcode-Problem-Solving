@@ -42,5 +42,4 @@ class Solution:
                     return False
                 else:
                     continue
-            
             return True
